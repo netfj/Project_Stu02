@@ -1,0 +1,14 @@
+log_config(25)[DEBUG]2021-02-23 17:42:18
+模块或函数名(行号)[日志类型]日志信息
+log_config(26)[DEBUG]日志设置完成：SQLiteRunInfo.log
+database_connect(42)[DEBUG]Opened database successfully:dict.sqlite
+table_create(123)[DEBUG]表已经存在:words
+value_insert(221)[DEBUG]insert into words ('id','word','type','meanings') values (33,'Tom','n.','汤姆');
+value_insert(228)[ERROR]Insert values is fail !
+log_config(25)[DEBUG]2021-02-23 17:43:15
+模块或函数名(行号)[日志类型]日志信息
+log_config(26)[DEBUG]日志设置完成：SQLiteRunInfo.log
+database_connect(42)[DEBUG]Opened database successfully:dict.sqlite
+table_create(123)[DEBUG]表已经存在:words
+value_insert(221)[DEBUG]insert into words ('id','word','type','meanings') values (33,'Tom','n.','汤姆');
+value_insert(228)[ERROR]Insert values is fail !
